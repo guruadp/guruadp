@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)
 <br>
 
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=guruadp&theme=radical"/>
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=guruadp&theme=dark"/>
 <img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruadp&layout=compact"/>
 
 <!-- 
