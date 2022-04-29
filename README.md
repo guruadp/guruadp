@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ROS
 - 📫 You can reach me at gurunandhanadp@gmail.com
 - 😄 Pronouns: He/Him
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/guruadp/github-readme-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guruadp&theme=radical)
