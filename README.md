@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 I'm interested in Robotics (Cognition and Perception)
 - 🌱 I’m currently learning ROS
 - 📫 You can reach me at <br>
-  <a href="gurunandhanadp@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="gurunandhanadp@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gurunandhan-adp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/><br>
   
 
