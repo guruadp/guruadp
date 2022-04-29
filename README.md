@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm interested in Robotics (Cognition and Perception)
 - 🌱 I’m currently learning ROS
-- 📫 How to reach me at gurunandhanadp@gmail.com
+- 📫 You can reach me at gurunandhanadp@gmail.com
 - 😄 Pronouns: He/Him
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=guruadp&theme=radical)
