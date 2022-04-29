@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 You can reach me at gurunandhanadp@gmail.com
 - 😄 Pronouns: He/Him
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=guruadp&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guruadp&theme=radical)
