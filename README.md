@@ -12,9 +12,12 @@ Here are some ideas to get you started:
 -->
 - 🔭 I'm interested in Robotics (Cognition and Perception)
 - 🌱 I’m currently learning ROS
-- 📫 You can reach me at <br>
-  <a href="gurunandhanadp@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gurunandhan-adp/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/><br>
+- 📫 You can reach me at gurunandhanadp@gmail.com <br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gurunandhan-adp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gurunandhan-adp/" height="30" width="40" /></a>
+<a href="https://instagram.com/guru_adp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guru_adp" height="30" width="40" /></a>
+</p>
   
 
 📋 Languages<br>
