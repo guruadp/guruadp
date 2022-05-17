@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 🔭 I'm interested in Robotics (Cognition and Perception)
 - 🌱 I’m currently learning ROS
 - 📫 You can reach me at gurunandhanadp@gmail.com <br>
+
+<h3><a href="https://drive.google.com/file/d/1mQ2o_Hv7Ee3ayh5Ez64eXUCexpSf2XaM/view?usp=sharing" target="blank">Click here</a> to view my resume</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gurunandhan-adp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gurunandhan-adp/" height="30" width="40" /></a>
