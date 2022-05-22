@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ROS
 - 📫 You can reach me at gurunandhanadp@gmail.com <br>
 
-<h3><a href="https://drive.google.com/file/d/1mQ2o_Hv7Ee3ayh5Ez64eXUCexpSf2XaM/view?usp=sharing" target="blank">Click here</a> to view my resume</h3>
+<h3><a href="https://drive.google.com/file/d/12NSqmX8TYtt2vJsQSq7UlDx3ZX_LyXy0/view?usp=sharing" target="_blank">Click here</a> to view my resume</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gurunandhan-adp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gurunandhan-adp/" height="30" width="40" /></a>
@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 <br>
     -->
 
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=guruadp&theme=radical"/>
-<img align="left" width=47% src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruadp&layout=compact"/>
+<img align="left" width=47% src="https://github-readme-stats.vercel.app/api?username=guruadp&theme=dark"/>
+<img align="left" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=guruadp&layout=compact&hide=cmake,makefile,scss,less,shell"/>
 
 <!-- 
 https://github.com/Ileriayo/markdown-badges 
