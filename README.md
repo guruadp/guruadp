@@ -14,12 +14,36 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ROS
 - 📫 You can reach me at gurunandhanadp@gmail.com <br>
 
-<h3><a href="https://drive.google.com/file/d/1o9uTeOZLMYRCJrObve9PeU0KybZoxJEd/view?usp=sharing" target="_blank">Click here</a> to view my resume</h3>
+<h3><a href="https://drive.google.com/file/d/1cS1oYVN_FhEE3BmqwBi5XGRhX8XG-VR3/view?usp=sharing" target="_blank">Click here</a> to view my resume</h3>
+<br>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<a href="https://www.linkedin.com/in/gurunandhan-adp/">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/guruadp">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/guruadp/">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<!--<a href="https://twitter.com/guruadp">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.facebook.com/people/guru.../100024852131637/">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a> -->
+<a href="https://guruadp.github.io/gurunandhanadp">
+  <img align="left" width="22px" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
+</a>
+<br>
+</br>
+</br>
+
+<!-- <p align="left">
 <a href="https://linkedin.com/in/gurunandhan-adp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gurunandhan-adp/" height="30" width="40" /></a>
 <a href="https://instagram.com/guru_adp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guru_adp" height="30" width="40" /></a>
-</p>
+</p> -->
   
 <!--
 📋 Languages<br>
